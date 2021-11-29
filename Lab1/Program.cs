@@ -6,7 +6,7 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            new Lesson14();
+            new Lesson2();
         }
     }
 }
