@@ -5,9 +5,9 @@ using System.Text.RegularExpressions;
 
 namespace Lab1
 {
-    class Lesson10
+    class Lesson10: LabLesson
     {
-        public Lesson10()
+        protected override void run()
         {
             string fullname = "";
 

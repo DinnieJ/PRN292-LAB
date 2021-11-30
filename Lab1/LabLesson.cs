@@ -8,6 +8,7 @@ namespace Lab1
     {
        public LabLesson()
         {
+            Console.WriteLine($"Running {this.GetType().Name}: ");
             this.run();
         }
        protected abstract void run();
